@@ -8,3 +8,4 @@ My primary role was leading the complete bench design in Onshape, collaborating 
 Overall, the project was a success. The final design ranked #1 in stability performance within the statics course and achieved the lowest overall weight among all competing designs!
 
 [https://docs.google.com/presentation/d/1ZRVreBJ10L7h2c_8FEsZ4simIRzh_7tzGzh02cS57vg/edit?usp=sharing](url)
+Tip- Try to copy and paste link to search bar
